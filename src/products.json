@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "title": "Copa del Mundo",
+      "description": "La copa que ganó el diego en el 86, 100% real no fake",
+      "price": 5,
+      "stock": 1,
+      "code": 1,
+      "status": true,
+      "category": "copas",
+      "thumbnail": "https://www.si.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkwMTk2NTg3NDQyNDgwNDcw/world-cup-trophy.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Remera Mclovin",
+      "description": "Remera con identificación de Mclovin, el mejor del mundo",
+      "price": 599,
+      "stock": 20,
+      "code": 2,
+      "status": true,
+      "category": "remeras",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_635625-MLA50855821478_072022-W.jpg"
+    }
+  ]
+}
